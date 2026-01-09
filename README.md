@@ -1,3 +1,3 @@
 # bubbleWeb
 
-url:   https://joyshil01.github.io/bubbleWeb/
+url:   https://joyshildev.github.io/bubbleWeb/
